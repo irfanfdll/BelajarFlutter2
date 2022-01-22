@@ -23,7 +23,7 @@ void main() {
   print("Tempat Tanggal Lahir  : " + tl! + "," + ttl!);
   print("Jenis Kelamin  : " + jk!);
   print("Alamat  : " + alamat!);
-  print("Agama  : Ateis");
+  print("Agama  : " + agama!);
   print("Sekolah  : " + sekolah!);
   print("Jurusan  : " + jurusan!);
 }
